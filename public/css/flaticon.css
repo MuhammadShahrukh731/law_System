@@ -1,0 +1,73 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/11/2016 08:09
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-accident:before { content: "\f100"; }
+.flaticon-add:before { content: "\f101"; }
+.flaticon-badge:before { content: "\f102"; }
+.flaticon-boy-broad-smile:before { content: "\f103"; }
+.flaticon-buildings:before { content: "\f104"; }
+.flaticon-car-collision:before { content: "\f105"; }
+.flaticon-cash:before { content: "\f106"; }
+.flaticon-courthouse:before { content: "\f107"; }
+.flaticon-diamond:before { content: "\f108"; }
+.flaticon-family-under-a-ceiling-outline:before { content: "\f109"; }
+.flaticon-gavel:before { content: "\f10a"; }
+.flaticon-gavel-1:before { content: "\f10b"; }
+.flaticon-gavel-2:before { content: "\f10c"; }
+.flaticon-happiness:before { content: "\f10d"; }
+.flaticon-help:before { content: "\f10e"; }
+.flaticon-insurance:before { content: "\f10f"; }
+.flaticon-justice:before { content: "\f110"; }
+.flaticon-justice-1:before { content: "\f111"; }
+.flaticon-law:before { content: "\f112"; }
+.flaticon-law-book:before { content: "\f113"; }
+.flaticon-law-book-1:before { content: "\f114"; }
+.flaticon-law-office:before { content: "\f115"; }
+.flaticon-lawyer:before { content: "\f116"; }
+.flaticon-libra:before { content: "\f117"; }
+.flaticon-location:before { content: "\f118"; }
+.flaticon-message:before { content: "\f119"; }
+.flaticon-message-1:before { content: "\f11a"; }
+.flaticon-operator:before { content: "\f11b"; }
+.flaticon-people:before { content: "\f11c"; }
+.flaticon-people-1:before { content: "\f11d"; }
+.flaticon-people-2:before { content: "\f11e"; }
+.flaticon-people-3:before { content: "\f11f"; }
+.flaticon-phone-call:before { content: "\f120"; }
+.flaticon-play-button:before { content: "\f121"; }
+.flaticon-scale:before { content: "\f122"; }
+.flaticon-send-message-button:before { content: "\f123"; }
+.flaticon-star-award:before { content: "\f124"; }
+.flaticon-student:before { content: "\f125"; }
+.flaticon-substract:before { content: "\f126"; }
+.flaticon-support:before { content: "\f127"; }
+.flaticon-team:before { content: "\f128"; }
+.flaticon-transport:before { content: "\f129"; }
+.flaticon-transport-1:before { content: "\f12a"; }
+.flaticon-trophy:before { content: "\f12b"; }
